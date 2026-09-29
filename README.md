@@ -284,19 +284,10 @@ NexaRoom V7 introduces a complete frontend refresh while keeping V6 functionalit
 
 ---
 
-## Demo Video
+## Project Links
 
-A complete project demonstration is available with the repository.
-
-You can add the video inside a `demo/` folder:
-
-```text
-demo/NexaRoom_FULL_Combined_No_Trim.mp4
-```
-
-After uploading your LinkedIn project post, you can also add the LinkedIn post link here.
-
----
+- **GitHub Repository:** https://github.com/Gopivemuri-tech/CodeAlpha_RealTimeCommunicationApp
+- **LinkedIn Project Post:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7510707367219630080/
 
 ## Production Roadmap
 
