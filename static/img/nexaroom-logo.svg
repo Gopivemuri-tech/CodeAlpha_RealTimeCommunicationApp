@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56">
+  <defs><linearGradient id="g" x1="4" y1="4" x2="54" y2="54"><stop stop-color="#63A8FF"/><stop offset=".58" stop-color="#4F8CFF"/><stop offset="1" stop-color="#46D8E8"/></linearGradient></defs>
+  <rect x="2" y="2" width="52" height="52" rx="16" fill="#0C1525" stroke="#203B67"/>
+  <path d="M14 41V17c0-2 1.6-3.6 3.6-3.6h5.8L39 32V17h6.5v24h-6L21 18.8V41H14z" fill="url(#g)"/>
+  <circle cx="45.5" cy="13.5" r="4" fill="#46D8E8"/>
+  <text x="68" y="36" fill="#F7F9FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-1">NexaRoom</text>
+</svg>
